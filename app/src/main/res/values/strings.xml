@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ingrese texto</string>
+    <string name="check1">halloween rules</string>
+    <string name="check2">briamitta</string>
+    <string name="check3">semillir</string>
+    <string name="buton1">amarillo</string>
+    <string name="buton2">rojo</string>
+    <string name="buton3">azul</string>
+    <string name="bcolor">COLOR</string>
+    <string name="bletra">LETRA</string>
+
+</resources>
